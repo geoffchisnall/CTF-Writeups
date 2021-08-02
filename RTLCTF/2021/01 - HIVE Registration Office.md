@@ -12,7 +12,7 @@ Here we find both the login count and the last time the user changed their passw
 
 ![[01  - user_info.png]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/RTLCTF/2021/images/01%20%20-%20user_info.png)
 
-<b>Last Password Change Time - 15:54:49 2021/07/04<b>
+<b>Last Password Change Time - 15:54:49 2021/07/04</b>
 <br>
 <b>Logon Count - 2817</b>
 
