@@ -12,8 +12,9 @@ Here we find both the login count and the last time the user changed their passw
 
 ![[01  - user_info.png]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/RTLCTF/2021/images/01%20%20-%20user_info.png)
 
-Last Password Change Time - 15:54:49 2021/07/04
-Logon Count - 2817
+<b>Last Password Change Time - 15:54:49 2021/07/04<b>
+<br>
+<b>Logon Count - 2817</b>
 
 Next up I loaded the SYSTEM file.
 
@@ -21,8 +22,9 @@ Here I searched for BIOSVendor and we find what we are looking for.
 
 ![[01 - machine_info.png]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/RTLCTF/2021/images/01%20-%20machine_info.png)
 
-Manufacturer's name: HP
-BIOS Vendoer's Name: Insyde
+<b>Manufacturer's name: HP</b>
+<br>
+<b>BIOS Vendoer's Name: Insyde</b>
 
 Combining them to the flag format we get the flag.
 
