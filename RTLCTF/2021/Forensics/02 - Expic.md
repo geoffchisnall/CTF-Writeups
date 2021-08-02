@@ -18,11 +18,3 @@ Browsing to it we get the following and find a base64 string.
 We convert this and we get the flag
 
 ![[02 - base64.png]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/RTLCTF/2021/images/02%20-%20base64.png)
-
-
-
-
-
-
-
-

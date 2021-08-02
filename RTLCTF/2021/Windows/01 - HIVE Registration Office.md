@@ -26,7 +26,6 @@ Here I searched for BIOSVendor and we find what we are looking for.
 <br>
 <b>BIOS Vendoer's Name: Insyde</b>
 
-Combining them to the flag format we get the flag.
+Combining them in the correct format we get the flag.
 
 RTL{15:54:49 2020/04/19_HP_Insyde_2817}
-
