@@ -37,6 +37,7 @@ We click on Charts on the left and we see a 404 error with `/admin/charts.html`
 ![[TemplateShack]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/TemplateShack/sb_search.png)
 
 Let us check for SSTI vulnerability. We add `{{7*7}}` and we see `/admin/49`. Confirmed this is SSTI.
+TryHackMe has an amazing room on SSTI - https://tryhackme.com/room/learnssti
 
 ![[TemplateShack]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/TemplateShack/SSTI1.png)
 
