@@ -16,7 +16,7 @@ We know that it is appending .php to whatever we add to it.
 
 ![[Bite]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/Bite/lfi_4.png)
 
-Let's try add a bull byte by adding `%00`
+Let's try add a null byte by adding `%00`
 
 ![[Bite]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/Bite/lfi_flag.png)
 
