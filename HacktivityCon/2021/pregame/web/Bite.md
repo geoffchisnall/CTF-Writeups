@@ -1,1 +1,1 @@
-![[Bite]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/bite.png)
+![[Bite]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/Bite/bite.png)
