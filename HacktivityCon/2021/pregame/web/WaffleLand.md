@@ -6,6 +6,5 @@
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_3.png)
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_4.png)
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_5.png)
-![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_5.png)
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_6.png)
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_flag.png)
