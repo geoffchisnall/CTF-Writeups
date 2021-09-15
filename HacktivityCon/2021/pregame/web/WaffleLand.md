@@ -9,15 +9,16 @@ Let's check for SQLi.
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle2.png)
 
 We get an error so now we can start enumerating for things.
-![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqlii_1.png)
 
-**NOTE**
-I FORGOT TO TAKE A SCREEN SHOT OF THE FOLLOWING
-When I tried `'UNION SELECT NULL-- -` I got a 403 Forbidden error which was telling me there was some kind of WAF preventing me injecting thus it meant I needed to escape things.
+![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_1.png)
+
+**NOTE - I FORGOT TO TAKE A SCREEN SHOT OF THE FOLLOWING**
+<br>
+When I tried `'UNION SELECT NULL-- -` I got a `403 Forbidden` error which was telling me there was some kind of WAF preventing me injecting thus it meant I needed to escape things.
 
 We can do this by using `/**/`
 
-Let's try get the ammount of columns in the database.
+Let's try get the amount of columns in the database.
 
 ![[WaffleLand]](https://github.com/geoffchisnall/CTF-Writeups/blob/main/HacktivityCon/2021/pregame/images/WaffleLand/waffle_sqli_2.png)
 
