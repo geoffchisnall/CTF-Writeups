@@ -1,5 +1,8 @@
 ### Phonetic
 
+![image](https://user-images.githubusercontent.com/4244357/133921665-465edd38-cd1a-4521-9ac6-9a5b34e6afe1.png)
+
+
 We have the following file.
 I am removing the encrypted `$gbaylYLd6204` part as it's too long.
 
